@@ -13,7 +13,9 @@ I'm Jerry Adeniji, a passionate Frontend Engineer who loves turning creative ide
 ## My Tech Stack
 
 - HTML, CSS, JavaScript
-- React
+- React Js
+- Angular Js
+- Jquery
 - SASS/SCSS
 - Git and version control
 - Vue Js
